@@ -1,0 +1,1 @@
+{"version":3,"file":"downloader.service.d.ts","sourceRoot":"","sources":["../../src/services/downloader.service.ts"],"names":[],"mappings":"AAKA,qBAAa,iBAAiB;IAEpB,wBAAwB,CAC1B,GAAG,EAAE,MAAM,EACX,YAAY,EAAE,MAAM,EACpB,aAAa,EAAE,MAAM,EACrB,SAAS,GAAE,MAAgB,GAC5B,OAAO,CAAC,OAAO,CAAC;IAmFnB,OAAO,CAAC,kBAAkB;IAW1B,OAAO,CAAC,kBAAkB;YAcZ,yBAAyB;YAYzB,sBAAsB;CAqBvC"}
