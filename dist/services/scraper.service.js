@@ -68,5 +68,6 @@ class ScraperService {
         return bids;
     }
 }
-export default new ScraperService();
+const scraperService = new ScraperService();
+export default scraperService;
 //# sourceMappingURL=scraper.service.js.map

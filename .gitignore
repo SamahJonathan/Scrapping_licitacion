@@ -30,3 +30,5 @@ jspm_packages/
 
 # parcel-bundler cache files
 .cache
+#token github
+token.txt

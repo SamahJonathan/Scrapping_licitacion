@@ -6,6 +6,6 @@ declare class ScraperService {
     getRawHtml(searchTerm?: string): Promise<string>;
     private parseBids;
 }
-declare const _default: ScraperService;
-export default _default;
+declare const scraperService: ScraperService;
+export default scraperService;
 //# sourceMappingURL=scraper.service.d.ts.map

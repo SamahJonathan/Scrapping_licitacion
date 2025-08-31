@@ -75,4 +75,5 @@ class ScraperService {
     }
 }
 
-export default new ScraperService();
+const scraperService = new ScraperService();
+export default scraperService;
